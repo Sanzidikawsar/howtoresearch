@@ -2,7 +2,11 @@
 
 ![](.gitbook/assets/contrib%20%281%29.png)
 
-লেখকঃ [Md. Sanzidul Islam](www.sanzidscloud.com)
+**লেখকঃ** [Md. Sanzidul Islam](https://www.facebook.com/sanzidikawsar)
+
+**সহায়তায়ঃ** [Sadia Sharmin](https://www.facebook.com/sadia.sharmin.796) এবং [Shahariar Rabby](http://shahariar.ml/)
+
+**রিভিউয়ারঃ** [Sheikh Abujar](https://sites.google.com/site/iamabujarsheikh/) এবং [Syed Akhter Hossain](https://en.wikipedia.org/wiki/Syed_Akhter_Hossain)
 
 ### - লেখার উদ্দেশ্য
 
